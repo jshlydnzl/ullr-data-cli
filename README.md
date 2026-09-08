@@ -6,8 +6,6 @@
 
 **Ullr** is a pure Python Data Engine designed for Data Analysts and Engineers who need to audit massive Excel/CSV files instantly without relying on cloud APIs, ensuring 100% data privacy. 
 
-This project was intentionally **Vibe Coded** (AI-assisted engineered) to demonstrate modern, high-velocity software development using Large Language Models alongside core Data Engineering principles.
-
 ---
 
 ## 🚀 Installation
