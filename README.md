@@ -51,4 +51,3 @@ ullr analyze cleaned_data.xlsx
 ```
 
 ---
-*Built by jshlydnzl.*
