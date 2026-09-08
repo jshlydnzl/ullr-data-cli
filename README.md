@@ -3,7 +3,6 @@
 > *An ultra-fast, 100% offline Data Quality and Dashboard Blueprint CLI.*
 
 [![PyPI version](https://img.shields.io/pypi/v/ullr-data-cli.svg)](https://pypi.org/project/ullr-data-cli/)
-[![Vibe Coded](https://img.shields.io/badge/Vibe%20Coded-AI%20Assisted-purple)](https://github.com/jshlydnzl)
 
 **Ullr** is a pure Python Data Engine designed for Data Analysts and Engineers who need to audit massive Excel/CSV files instantly without relying on cloud APIs, ensuring 100% data privacy. 
 
