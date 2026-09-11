@@ -2,11 +2,11 @@ from setuptools import setup, find_packages
 
 setup(
     name='ullr-data-cli',
-    version='1.0.3',
+    version='1.0.5',
     author='jshlydnzl',
     author_email='jshlydnzl@users.noreply.github.com',
     description='A purely native Practice Engine for aspiring Data Analysts to generate and audit datasets',
-    long_description='Ullr is a pure Python Data Engine that automatically audits CSV/Excel files for data quality (ghost data, invisible spaces, duplicates) and generates Dynamic Dashboard Blueprints for Excel, Power BI, Tableau, and Looker Studio.',
+    long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     url='https://github.com/jshlydnzl/ullr-data-cli',
     packages=find_packages(),

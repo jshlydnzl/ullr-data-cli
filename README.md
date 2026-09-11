@@ -1,6 +1,6 @@
 # Ullr Data Engine
 
-![Ullr Interactive Menu](https://raw.githubusercontent.com/jshlydnzl/ullr-data-cli/master/screenshot.jpeg)
+![Ullr Interactive Menu](https://raw.githubusercontent.com/jshlydnzl/ullr-data-cli/master/screenshot.png)
 
 A purely native Practice Engine for aspiring Data Analysts to generate and audit datasets.
 
