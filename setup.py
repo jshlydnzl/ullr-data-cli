@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='ullr-data-cli',
-    version='1.0.1',
+    version='1.0.2',
     author='jshlydnzl',
     author_email='jshlydnzl@users.noreply.github.com',
     description='An offline, AI-free Data Analytics and Dashboard Auditing CLI',
